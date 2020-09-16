@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "category": "life",
+        "quote": "Sometimes life hits you in the head with a brick. Don't lose faith.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id":2,
+        "category": "motivational",
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+    },
+    {
+        "id":3,
+        "category": "motivational",
+        "quote": "Quality is not an act, it is a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "id":4,
+        "category": "love",
+        "quote": "I have decided to stick with love. Hate is too great a burden to bear.",
+        "author": "Martin Luther King, Jr."
+    },
+    {
+        "id":5,
+        "category": "love",
+        "quote": "The hunger for love is much more difficult to remove than the hunger for bread.",
+        "author": "Mother Teresa"
+    },
+    {
+        "id":6,
+        "category": "love",
+        "quote": "To love oneself is the beginning of a lifelong romance.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id":7,
+        "category": "wisdom",
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+    },
+    {
+        "id":8,
+        "category": "love",
+        "quote": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+        "author": "Marilyn Monroe"
+    },
+    {
+        "id":9,
+        "category": "wisdom",
+        "quote": "No one can make you feel inferior without your consent.",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id": 10,
+        "category":"wisdom",
+        "quote": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+        "author": "William Shakespeare"
+    },
+    {
+        "id": 11,
+        "category": "life",
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+    },
+    {
+        "id": 12,
+        "category": "life",
+        "quote": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+        "author": "Jimi Hendrix"
+    },
+    {
+        "id": 13,
+        "category": "motivational",
+        "quote": "All our dreams can come true, if we have the courage to pursue them.",
+        "author": "Walt Disney"
+    },
+    {
+        "id": 14,
+        "category": "motivational",
+        "quote": "I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life and that is why I succeed.",
+        "author": "Michael Jordan"
+    },
+    {
+        "id": 15,
+        "category": "motivational",
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb"
+    },
+    {
+        "id": 16,
+        "category": "motivational",
+        "quote": "It’s hard to beat a person who never gives up.",
+        "author": "Babe Ruth"
+    },
+    {
+        "id": 17,
+        "category": "motivational",
+        "quote": "Do one thing every day that scares you.",
+        "author": "Eleanor Roosevelt"
+    }
+
+]
+
+
